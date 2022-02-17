@@ -46,23 +46,28 @@ Working Code of each libraries can be found here:
 
 ## Sample Output:
 ### TextAugment
+TextAugment is a Python 3 library for augmenting text for natural language processing applications. TextAugment stands on the giant shoulders of NLTK, Gensim, and TextBlob and plays nicely with them.<br><br>
 ![image](https://user-images.githubusercontent.com/30492527/154437725-e220fa41-3bbf-4d74-b34a-127a32c5c446.png)
 
 
 ### Augly
+Facebook just recently released the AugLy package to the public domain. AugLy library is divided into four sub-libraries, each for different kinds of data modalities (audio, images, videos and texts).<br>
 ![image](https://user-images.githubusercontent.com/30492527/154438419-0e5f2cf8-5f32-44e9-ab26-c1e105f94046.png)
 
 
 ### NLPAug
+NLPAug is a library for textual augmentation in machine learning experiments. The goal is improving deep learning model performance by generating textual data.<br><br>
 ![image](https://user-images.githubusercontent.com/30492527/154438162-d563eaaa-9626-494b-9e6a-a9c863d5d8b5.png)
 ![image](https://user-images.githubusercontent.com/30492527/154438215-84771e31-65bb-44e9-ada4-b8b5266c0f51.png)
 
 
 ### Parrot paraphrase
+Parrot is a paraphrase-based utterance augmentation framework purpose-built to accelerate training NLU models. A paraphrase framework is more than just a paraphrasing model.<br>
 ![image](https://user-images.githubusercontent.com/30492527/154438574-085d450f-144d-4077-b7c7-85e1b29f9221.png)
 
 
 ### Pegasus paraphrase
+PEGASUS is a standard Transformer encoder-decoder. PEGASUS uses GSG to pre-train a Transformer encoder-decoder on large corpora of documents.<br>
 ![image](https://user-images.githubusercontent.com/30492527/154438878-d0701f27-9223-4a92-9c43-e4f1eb416e76.png)
 
 
