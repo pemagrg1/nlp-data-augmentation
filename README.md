@@ -44,22 +44,25 @@ Working Code of each libraries can be found here:
 * [Parrot paraphrase](https://github.com/pemagrg1/nlp-data-augmentation/blob/main/notebooks/Parrot_paraphrase_notebook.ipynb)
 * [Pegasus paraphrase](https://github.com/pemagrg1/nlp-data-augmentation/blob/main/notebooks/Pegasus_paraphrase_notebook.ipynb)
 
-### Sample Output:
-#### TextAugment
+## Sample Output:
+### TextAugment
 ![image](https://user-images.githubusercontent.com/30492527/154437725-e220fa41-3bbf-4d74-b34a-127a32c5c446.png)
 
-#### Augly
+
+### Augly
 ![image](https://user-images.githubusercontent.com/30492527/154438419-0e5f2cf8-5f32-44e9-ab26-c1e105f94046.png)
 
 
-#### NLPAug
+### NLPAug
 ![image](https://user-images.githubusercontent.com/30492527/154438162-d563eaaa-9626-494b-9e6a-a9c863d5d8b5.png)
 ![image](https://user-images.githubusercontent.com/30492527/154438215-84771e31-65bb-44e9-ada4-b8b5266c0f51.png)
 
-#### Parrot paraphrase
+
+### Parrot paraphrase
 ![image](https://user-images.githubusercontent.com/30492527/154438574-085d450f-144d-4077-b7c7-85e1b29f9221.png)
 
-#### Pegasus paraphrase
+
+### Pegasus paraphrase
 ![image](https://user-images.githubusercontent.com/30492527/154438878-d0701f27-9223-4a92-9c43-e4f1eb416e76.png)
 
 
