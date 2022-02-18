@@ -4,7 +4,7 @@
 
 “**Augmentation**” is the process of enlarging in size or amount and here in this article, we’ll work out how we can increase the size of the data using the data augmentation techniques for textual data. Also as the neural architectures rely on large parallel corpora, synthetically generating data (which is called **data augmentation**) can be of huge help.
 
-As mentioned in “A Survey of Data Augmentation Approaches for NLP”[b], some of the **Data Augmentation Techniques** are:
+As mentioned in <i>“A Survey of Data Augmentation Approaches for NLP”</i>[b], some of the **Data Augmentation Techniques** are:
 
 1. Rule-Based: Easy Data Augmentation(EDA)
 2. Example Interpolation Techniques: MIXUP, SEQ2MIXUP
