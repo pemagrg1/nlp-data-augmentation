@@ -12,10 +12,10 @@ As mentioned in <i>“A Survey of Data Augmentation Approaches for NLP”</i>[b]
 
 Under Rule-Based, the basic and most commonly used technique is **EDA**: Easy data augmentation techniques. The **EDA techniques** are:
 
-1. Synonym Replacement
-2. Random Deletion
-3. Random Swap
-4. Random Insertion
+1. Synonym Replacement: Randomly choose n words from the sentence that does not stop words. Replace each of these words with one of its synonyms chosen at random.
+2. Random Deletion: Randomly remove each word in the sentence with probability p.
+3. Random Swap: Randomly choose two words in the sentence and swap their positions. Do this n times.
+4. Random Insertion: Find a random synonym of a random word in the sentence that is not a stop word. Insert that synonym into a random position in the sentence. Do this n times
 
 ### **Vairous Data Augmentation Task**:
 
