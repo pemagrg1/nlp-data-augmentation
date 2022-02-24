@@ -58,8 +58,8 @@ Facebook just recently released the AugLy package to the public domain. AugLy li
 ### NLPAug
 NLPAug is a library for textual augmentation in machine learning experiments. The goal is improving deep learning model performance by generating textual data.<br><br>
 ![image](https://user-images.githubusercontent.com/30492527/154438162-d563eaaa-9626-494b-9e6a-a9c863d5d8b5.png)
-![image](https://user-images.githubusercontent.com/30492527/154438215-84771e31-65bb-44e9-ada4-b8b5266c0f51.png)
-
+![image](https://user-images.githubusercontent.com/30492527/154438215-84771e31-65bb-44e9-ada4-b8b5266c0f51.png)<br>
+<b>Back translation</b> involves taking the translated version of a document or file and then having a separate independent translator (who has no knowledge of or contact with the original text) translate it back into the original language.
 
 ### Parrot paraphrase
 Parrot is a paraphrase-based utterance augmentation framework purpose-built to accelerate training NLU models. A paraphrase framework is more than just a paraphrasing model.<br>
